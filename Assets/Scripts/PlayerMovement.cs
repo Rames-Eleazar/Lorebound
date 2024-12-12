@@ -40,6 +40,8 @@ public class PlayerMovement : MonoBehaviour
         {
             animator.SetBool("Moving", false);
         }
+
+        
     }
 
     void MoveCharacter()
